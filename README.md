@@ -1,4 +1,5 @@
 
+
 problem
 
 Write a server which can generate and assign random tokens within a pool and release them after some time. Following endpoints should work on your server:
@@ -59,5 +60,7 @@ method  - get
 http://127.0.0.1:8000/user/get_user_detail/
 
 in header use - Content-Type,Authorization
+
+=============================================================================================================
 
 Note -  For more detail with images check doc_imgs dir
